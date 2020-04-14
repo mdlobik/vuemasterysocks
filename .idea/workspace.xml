@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3b0ace8-f158-4026-a6d0-2574f4e55619" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/vmSocks-green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vuemasterysocks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vuemasterysocks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -69,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586821349609</updated>
-      <workItem from="1586821350818" duration="4533000" />
+      <workItem from="1586821350818" duration="7161000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1586821991705</created>
@@ -78,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586821991705</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Got Vue working, Style sheet linked without errors">
+      <created>1586826551367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586826551367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,17 +89,18 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Got Vue working, Style sheet linked without errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got Vue working, Style sheet linked without errors" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="362" key="#Notifications" timestamp="1586822142891">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="452" y="362" key="#Notifications/0.0.3440.1400@0.0.3440.1400" timestamp="1586822142891" />
-    <state x="485" y="298" key="CommitChangelistDialog2" timestamp="1586821990804">
+    <state x="485" y="298" key="CommitChangelistDialog2" timestamp="1586826550364">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="485" y="298" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1586821990804" />
+    <state x="485" y="298" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1586826550364" />
     <state x="640" y="445" key="FileChooserDialogImpl" timestamp="1586822664433">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -118,13 +121,17 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="781" y="318" width="998" height="718" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1586823366029" />
-    <state x="452" y="436" key="Vcs.Push.Dialog.v2" timestamp="1586822217664">
+    <state x="452" y="436" key="Vcs.Push.Dialog.v2" timestamp="1586826554009">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="452" y="436" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1586822217664" />
+    <state x="452" y="436" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1586826554009" />
     <state x="569" y="495" key="git4idea.merge.GitPullDialog" timestamp="1586822304138">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="569" y="495" key="git4idea.merge.GitPullDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1586822304138" />
+    <state x="523" y="321" width="672" height="678" key="search.everywhere.popup" timestamp="1586829876150">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="523" y="321" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1586829876150" />
   </component>
 </project>
