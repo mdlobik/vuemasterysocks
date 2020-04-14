@@ -4,5 +4,11 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/vue-chartkick" level="application" />
+    <orderEntry type="library" name="@types/vue-clickaway" level="application" />
+    <orderEntry type="library" name="@types/vue-color" level="application" />
+    <orderEntry type="library" name="@types/vue-datetime" level="application" />
+    <orderEntry type="library" name="@types/vue-feather-icons" level="application" />
+    <orderEntry type="library" name="@types/vue-ls" level="application" />
   </component>
 </module>
